@@ -1,0 +1,14 @@
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\bin\Debug\TryWpf1.exe.config
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\bin\Debug\TryWpf1.exe
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\bin\Debug\TryWpf1.pdb
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.csprojResolveAssemblyReference.cache
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\MainWindow.g.cs
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\App.g.cs
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1_MarkupCompile.cache
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1_MarkupCompile.lref
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\MainWindow.baml
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.g.resources
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.Properties.Resources.resources
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.csproj.GenerateResource.Cache
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.exe
+c:\users\reddy\documents\visual studio 2015\Projects\TryWpf1\TryWpf1\obj\Debug\TryWpf1.pdb
